@@ -2,7 +2,7 @@
   <div>
     <div class="rest-title">
       <div class="restTcont">
-        <p>输入备注信息</p>
+        <p>输入备注信息。</p>
         <el-row class="logout">
           <el-button class="logoutBtn" @click="logout">退出</el-button>
         </el-row>
