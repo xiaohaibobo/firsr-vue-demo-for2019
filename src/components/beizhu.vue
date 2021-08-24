@@ -13,7 +13,7 @@
         class="beizhu"
         :rows="16"
         type="textarea"
-        placeholder="请输入备注信息"
+        placeholder="请输入备注"
         resize="none"
         v-model="input"
         clearable
